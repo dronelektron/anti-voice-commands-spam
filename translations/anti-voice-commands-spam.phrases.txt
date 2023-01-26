@@ -1,0 +1,12 @@
+"Phrases"
+{
+    "Prefix"
+    {
+        "en"    "{darkkhaki}[AVCS] "
+    }
+
+    "Stop spamming"
+    {
+        "en"    "{white}Stop spamming with voice commands!"
+    }
+}
