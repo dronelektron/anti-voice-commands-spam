@@ -1,5 +1,5 @@
 static char g_voiceCommands[][] = {
-    // Group 1
+    // Menu 1
     "voice_attack",
     "voice_hold",
     "voice_left",
@@ -9,7 +9,7 @@ static char g_voiceCommands[][] = {
     "voice_usesmoke",
     "voice_usegrens",
     "voice_ceasefire",
-    // Group 2
+    // Menu 2
     "voice_yessir",
     "voice_negative",
     "voice_backup",
@@ -19,7 +19,7 @@ static char g_voiceCommands[][] = {
     "voice_niceshot",
     "voice_thanks",
     "voice_areaclear",
-    // Group 3
+    // Menu 3
     "voice_dropweapons",
     "voice_displace",
     "voice_mgahead",
@@ -36,7 +36,11 @@ static char g_voiceCommands[][] = {
     "voice_medic",
     "voice_fallback",
     "voice_enemyahead",
-    "voice_coverflanks"
+    "voice_coverflanks",
+    "voice_gogogo",
+    "voice_takeammo",
+    "voice_fireleft",
+    "voice_fireright"
 };
 
 void Command_AddListeners() {
