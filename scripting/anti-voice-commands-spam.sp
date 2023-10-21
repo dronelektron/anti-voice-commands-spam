@@ -11,7 +11,7 @@ public Plugin myinfo = {
     name = "Anti voice commands spam",
     author = "Dron-elektron",
     description = "Allows you to prevent spam by voice commands",
-    version = "1.0.0",
+    version = "1.0.1",
     url = "https://github.com/dronelektron/anti-voice-commands-spam"
 };
 
